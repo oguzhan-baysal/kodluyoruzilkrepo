@@ -27,4 +27,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## License
 
-[] (https://choosealicense.com/licenses/mit/)
+[](https://choosealicense.com/licenses/mit/)
